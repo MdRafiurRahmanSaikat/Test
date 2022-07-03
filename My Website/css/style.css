@@ -1,0 +1,60 @@
+h1 {
+  color: rgb(255, 255, 255);
+}
+body {
+  background-image: url("../image/background.jpg");
+
+  background-color: gray;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.heading {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(255, 255, 255);
+}
+div {
+  text-align: center;
+  color: rgb(255, 240, 240);
+}
+h3 {
+  text-align: center;
+}
+.blog {
+  color: rgba(41, 23, 206, 0.992);
+  background-color: darkgoldenrod;
+  border: 10px solid yellowgreen;
+  border-radius: 10px;
+  margin: 20px;
+
+  width: 95%;
+  padding: 20px 5px;
+}
+.blog p {
+  color: rgb(255, 255, 255);
+  text-align: justify;
+}
+
+.বড় {
+  background-color: darkcyan;
+  font-size: 23px;
+}
+.ছোট {
+  background-color: rgb(127, 235, 210);
+  font-size: 12px;
+}
+
+.NO {
+  background-color: red;
+}
+.surma {
+  background-color: rgb(223, 18, 18);
+}
+h1 {
+  color: red;
+  font-size: 40px;
+}
+.name {
+  color: rgb(71, 255, 71);
+}
